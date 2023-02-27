@@ -8,7 +8,7 @@ locals {
 
   tenant_info = {
     # # common information
-    # mnemonic                    = "ttt",
+    mnemonic                    = "vvv",
     # pod_mnemonic                = "pod988",
     # pod_windows_notation        = "m988"
     # mnemonic_uppercase          = "TTT"
