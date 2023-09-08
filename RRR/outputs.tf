@@ -1,3 +1,3 @@
-# output "test" {
-#   value = "test output value"
-# }
+output "test" {
+  value = "test output value"
+}
